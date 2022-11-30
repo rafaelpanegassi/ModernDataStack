@@ -107,5 +107,3 @@ No Airflow:
 - Criar as conexões com o Airbyte através do script ✔️
 
 - Testar a execução do pipeline ✔️
-
-Encerramento do Projeto: 
