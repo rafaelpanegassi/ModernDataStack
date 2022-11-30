@@ -16,9 +16,9 @@ Infraestrutura:
 
 - Subir o Metabase via docker ✔️
 
-- Criar o script de execução
+- Criar o script de execução ✔️
 
-- Testar a Execução 
+- Testar a Execução ✔️
 
 Snowflake Data Warehouse:
 
@@ -80,32 +80,32 @@ Visualização:
 
 No Metabase:
 
-- Conectar Metabase com o Snowflake
+- Conectar Metabase com o Snowflake ✔️
 
-- Criar uma Question
+- Criar uma Question ✔️
 
-- Criar um Dashboard
+- Criar um Dashboard ✔️
 
-- Adicionar uma Question
+- Adicionar uma Question ✔️
 
-- Visualizar o Resultado
+- Visualizar o Resultado ✔️
 
 Orquestração:
 
 No Airflow:
 
-- Criar a dag
+- Criar a dag ✔️
 
-- Criar a Docker network
+- Criar a Docker network ✔️
 
-- Incluir nos composes a network criada
+- Incluir nos composes a network criada ✔️
 
-- Setup Up no serviço
+- Setup Up no serviço ✔️
 
-- Testar a conexao entre os containers do airflow e do airbyte
+- Testar a conexao entre os containers do airflow e do airbyte ✔️
 
-- Criar as conexões com o Airbyte através do script
+- Criar as conexões com o Airbyte através do script ✔️
 
-- Testar a execução do pipeline
+- Testar a execução do pipeline ✔️
 
 Encerramento do Projeto: 
