@@ -21,6 +21,7 @@ Infraestrutura:
 - Testar a Execução 
 
 Snowflake Data Warehouse:
+
 - Criar a Conta no SnowFlake ✔️
 
 - Verificar a existência das tabelas ✔️
@@ -30,6 +31,7 @@ Snowflake Data Warehouse:
 Extração:
 
 No Airbyte:
+
 - Conectar com as origens baseadas nos Csvs ✔️
 
 - Criar as entidades no snowflake através do script base da documentação ✔️
@@ -43,6 +45,7 @@ No Airbyte:
 Preparação:
 
 No Airbyte (Destination Loading Method):
+
 - Local Staging (Ambiente de Desenvolvimento) ✔️
 
 - Cloud Staging (Ambiente de Produção) ✔️
@@ -50,6 +53,7 @@ No Airbyte (Destination Loading Method):
 Transformação:
 
 No Dbt:
+
 - Criação da Conta ✔️
 
 - Conexão com o Github ✔️
@@ -75,6 +79,7 @@ No Dbt:
 Visualização:
 
 No Metabase:
+
 - Conectar Metabase com o Snowflake
 
 - Criar uma Question
@@ -103,4 +108,4 @@ No Airflow:
 
 - Testar a execução do pipeline
 
-Encerramento:
+Encerramento do Projeto: 
