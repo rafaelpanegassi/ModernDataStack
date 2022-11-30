@@ -6,79 +6,83 @@ Etapas do Projeto:
 
 Infraestrutura:
 
-- Setup do ambiente de desenvolvimento - Gitpod.io - (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...)
+- Setup do ambiente de desenvolvimento - Gitpod.io - (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) ✔️
 
-- Setar as Permissoes do Gitpod ao Repositorio no Github
+- Setar as Permissoes do Gitpod ao Repositorio no Github ✔️
 
-- Subir o Airbyte via docker (documentação do Airbyte)
+- Subir o Airbyte via docker (documentação do Airbyte) ✔️
 
-- Subir o Airflow via docker (documentação do Airflow)
+- Subir o Airflow via docker (documentação do Airflow) ✔️
 
-- Subir o Metabase via docker
+- Subir o Metabase via docker ✔️
 
 - Criar o script de execução
 
 - Testar a Execução 
 
 Snowflake Data Warehouse:
-- Criar a Conta no SnowFlake
+- Criar a Conta no SnowFlake ✔️
 
-- Verificar a existência das tabelas
+- Verificar a existência das tabelas ✔️
 
-- Obter os links de conexão e nome da conta
+- Obter os links de conexão e nome da conta  ✔️
 
 Extração:
 
 No Airbyte:
-- Conectar com as origens baseadas nos Csvs
+- Conectar com as origens baseadas nos Csvs ✔️
 
-- Criar as entidades no snowflake através do script base da documentação
+- Criar as entidades no snowflake através do script base da documentação ✔️
 
-- Conectar o destino no snowflake
+- Conectar o destino no snowflake ✔️
 
-- Criar as conexões do airbyte associando as origens ao destino
+- Criar as conexões do airbyte associando as origens ao destino ✔️
 
-- Testar as conexões
+- Testar as conexões ✔️
 
 Preparação:
 
 No Airbyte (Destination Loading Method):
-- Local Staging (Ambiente de Desenvolvimento)
+- Local Staging (Ambiente de Desenvolvimento) ✔️
 
-- Cloud Staging (Ambiente de Produção)
+- Cloud Staging (Ambiente de Produção) ✔️
 
 Transformação:
 
 No Dbt:
-- Criação da Conta 
+- Criação da Conta ✔️
 
-- Conexão com o Github 
+- Conexão com o Github ✔️
 
-- Criação do Dbt Project 
+- Criação do Dbt Project ✔️
 
-- Criação do Profile de conexão com o snowflake 
+- Criação do Profile de conexão com o snowflake ✔️
 
-- Criação do Schema
+- Criação do Schema ✔️
 
-- Criação dos Modelos Base 
+- Criação dos Modelos Base ✔️
 
-- Criação do Modelo Relacionado 
+- Criação do Modelo Relacionado ✔️
 
-- Visualização gráfica do modelo 
+- Visualização gráfica do modelo ✔️
 
-- Teste de execução 
+- Teste de execução ✔️
 
-- Commits, Branches, Pull Requests, Merges no Github 
+- Commits, Branches, Pull Requests, Merges no Github ✔️
 
-- Obtenção do link de conexão com o Airbyte 
+- Obtenção do link de conexão com o Airbyte ✔️
 
 Visualização:
 
 No Metabase:
 - Conectar Metabase com o Snowflake
+
 - Criar uma Question
+
 - Criar um Dashboard
+
 - Adicionar uma Question
+
 - Visualizar o Resultado
 
 Orquestração:
